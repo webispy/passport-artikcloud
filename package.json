@@ -12,12 +12,16 @@
     "oauth2"
   ],
   "author": {
-		"name": "Inho Oh",
-		"email": "webispy@gmail.com"
-	},
+    "name": "Inho Oh",
+    "email": "webispy@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webispy/passport-artikcloud.git"
+  },
   "license": "MIT",
-	"main": "./lib",
-	"dependencies": {
-		"passport-oauth2": "1.x.x"
-	}
+  "main": "./lib",
+  "dependencies": {
+    "passport-oauth2": "1.x.x"
+  }
 }
